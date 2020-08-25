@@ -5,7 +5,7 @@ python:
 services:
   postgresql
 addons:
-  postgresql: '10.14'
+  postgresql: '9.6'
 
 install:
   - pip install -q -r requirements-dev.txt
