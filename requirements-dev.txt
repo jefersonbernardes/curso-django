@@ -26,4 +26,6 @@ idna==2.10
 pytest-cov==2.10.1
 requests==2.24.0
 urllib3==1.25.10
+# Deps on Django Debug Toolbar
+django-debug-toolbar==2.2
 -r requirements.txt
