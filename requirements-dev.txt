@@ -28,6 +28,4 @@ requests==2.24.0
 urllib3==1.25.10
 # Deps on Django Debug Toolbar
 django-debug-toolbar==2.2
-# Deps on Sentry
-sentry-sdk==0.17.1
 -r requirements.txt

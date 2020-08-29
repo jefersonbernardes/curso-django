@@ -20,3 +20,5 @@ s3transfer==0.3.3
 # Deps on Collectfast
 Collectfast==2.2.0
 typing-extensions==3.7.4.3
+# Deps on Sentry
+sentry-sdk==0.17.1
