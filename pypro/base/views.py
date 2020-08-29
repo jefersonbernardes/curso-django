@@ -1,4 +1,3 @@
-from django.http import HttpResponse #noqa
 from django.shortcuts import render
 
 
