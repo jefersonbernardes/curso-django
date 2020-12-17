@@ -19,7 +19,7 @@ toml==0.10.1
 # Deps on Pytest-cov
 certifi==2020.6.20
 chardet==3.0.4
-codecov==2.1.9
+codecov==2.1.11
 coverage==5.2.1
 idna==2.10
 pytest-cov==2.10.1
