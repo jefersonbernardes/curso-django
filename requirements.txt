@@ -10,7 +10,7 @@ pytest==6.0.1
 # Deps on Postgres
 psycopg2-binary==2.8.5
 # Deps on Django-S3-folder-storage
-boto3==1.14.52
+boto3==1.17.29
 botocore==1.17.52
 django-s3-folder-storage==0.5
 django-storages==1.10
